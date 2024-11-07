@@ -1,0 +1,4 @@
+c:\Users\axel.grufman\Documents\programering\NäsanÖverE4\NäsanÖverE4\obj\Debug\net7.0\NäsanÖverE4.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\axel.grufman\Documents\programering\NäsanÖverE4\NäsanÖverE4\obj\Debug\net7.0\NäsanÖverE4.AssemblyInfoInputs.cache
+c:\Users\axel.grufman\Documents\programering\NäsanÖverE4\NäsanÖverE4\obj\Debug\net7.0\NäsanÖverE4.AssemblyInfo.cs
+c:\Users\axel.grufman\Documents\programering\NäsanÖverE4\NäsanÖverE4\obj\Debug\net7.0\NäsanÖverE4.csproj.CoreCompileInputs.cache

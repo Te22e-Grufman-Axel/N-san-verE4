@@ -1,0 +1,4 @@
+class Mammakort : Hardwayre
+{
+    
+}
